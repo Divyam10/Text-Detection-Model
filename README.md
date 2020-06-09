@@ -22,8 +22,8 @@ $ python Object_detection_image.py
 - Run it on a video
 $ python Object_detectionvideo.py
 
-- Samples 
-- 5 iamges - 1 video file test - 1 webcam test
+## Samples 
+### 5 iamges - 1 video file test - 1 webcam test
 ![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/01.png)
 ![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/02.png)
 ![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/03.png)

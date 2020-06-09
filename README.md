@@ -23,12 +23,15 @@ $ python Object_detection_image.py
 $ python Object_detectionvideo.py
 
 - Samples 
+- 5 iamges - 1 video file test - 1 webcam test
 ![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/01.png)
 ![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/02.png)
 ![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/03.png)
 ![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/04.png)
 ![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/05.png)
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/7.mp4)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/6.mp4)
+
 
 
 

@@ -28,6 +28,8 @@ $ python Object_detectionvideo.py
 ![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/03.png)
 ![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/04.png)
 ![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/05.png)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/7.mp4)
+
 
 
 

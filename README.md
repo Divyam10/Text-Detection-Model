@@ -24,5 +24,11 @@ $ python Object_detectionvideo.py
 
 - Samples 
 ![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/01.png)
+![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/02.png)
+![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/03.png)
+![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/04.png)
+![alt text](https://github.com/Divyam10/Text-Detection-Model/blob/master/Container%20images/05.png)
+
+
 
 
